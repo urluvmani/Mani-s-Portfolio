@@ -8,7 +8,10 @@
     scroll-behavior: smooth;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
+.portfolio-box p{
+    color: white;
+    font-weight: 300;
+}
 :root {
     --bg-color: #1f242d;
     --second-bg-color: #323946;
