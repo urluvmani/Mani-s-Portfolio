@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://urluvmani.github.io/my-portfolio/)
+🔗 [View Portfolio Live](https://urluvmani.github.io/Mani-s-Portfolio/)
 
 ## 🛠️ Tech Stack
 
